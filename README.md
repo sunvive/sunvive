@@ -1,4 +1,4 @@
-![Header](https://github.com/sunvive/sunvive/blob/main/git2.png)
+![Header](https://github.com/sunvive/sunvive/blob/main/git.png)
 
 ## Привет! 
 Я начинающий тестировщик.
